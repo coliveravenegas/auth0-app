@@ -1,0 +1,1 @@
+This is a simple project to test Auth0 implementation at the frontend side
